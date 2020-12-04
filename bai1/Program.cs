@@ -13,12 +13,14 @@ namespace bai1
                 Console.WriteLine($"{number} is not a prime");
             }
             else{
+                int i = 2;
                 bool check = true;
-                for(int i =2;i<Math.Sqrt(number);i++){
+                while(i<Math.Sqrt(number)){
                     if(number%i==0){
                         check = false;
                         break;
                     }
+                    i++;
                 }
                 if(check){
                     Console.WriteLine($"{number} is a prime");
@@ -27,6 +29,6 @@ namespace bai1
                     Console.WriteLine($"{number} is not a prime");
                 }
             }
-        }
+        }   
     }
 }
