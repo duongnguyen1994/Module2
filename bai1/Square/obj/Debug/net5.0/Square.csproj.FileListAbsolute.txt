@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.exe
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.deps.json
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.runtimeconfig.json
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.dll
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\ref\Square.dll
+D:\codegym\Module2\bai1\Square\bin\Debug\net5.0\Square.pdb
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.AssemblyInfo.cs
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.dll
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\ref\Square.dll
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.pdb
+D:\codegym\Module2\bai1\Square\obj\Debug\net5.0\Square.genruntimeconfig.cache
