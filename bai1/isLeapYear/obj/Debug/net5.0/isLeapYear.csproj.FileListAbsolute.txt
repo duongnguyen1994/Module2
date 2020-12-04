@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.exe
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.deps.json
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.runtimeconfig.json
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.dll
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\ref\isLeapYear.dll
+D:\codegym\Module2\bai1\isLeapYear\bin\Debug\net5.0\isLeapYear.pdb
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.AssemblyInfo.cs
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.dll
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\ref\isLeapYear.dll
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.pdb
+D:\codegym\Module2\bai1\isLeapYear\obj\Debug\net5.0\isLeapYear.genruntimeconfig.cache
