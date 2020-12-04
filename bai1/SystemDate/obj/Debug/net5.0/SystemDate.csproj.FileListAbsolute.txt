@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.exe
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.deps.json
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.runtimeconfig.json
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.dll
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\ref\SystemDate.dll
+D:\codegym\Module2\bai1\SystemDate\bin\Debug\net5.0\SystemDate.pdb
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.AssemblyInfo.cs
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.dll
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\ref\SystemDate.dll
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.pdb
+D:\codegym\Module2\bai1\SystemDate\obj\Debug\net5.0\SystemDate.genruntimeconfig.cache

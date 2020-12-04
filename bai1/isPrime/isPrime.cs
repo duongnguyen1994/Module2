@@ -2,7 +2,7 @@
 
 namespace bai1
 {
-    class Program
+    class isPrime
     {
         static void Main(string[] args)
         {
