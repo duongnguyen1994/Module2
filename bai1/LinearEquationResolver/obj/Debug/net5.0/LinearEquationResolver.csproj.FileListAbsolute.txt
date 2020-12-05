@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.exe
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.deps.json
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.runtimeconfig.json
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.dll
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\ref\LinearEquationResolver.dll
+D:\codegym\Module2\bai1\LinearEquationResolver\bin\Debug\net5.0\LinearEquationResolver.pdb
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.AssemblyInfo.cs
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.dll
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\ref\LinearEquationResolver.dll
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.pdb
+D:\codegym\Module2\bai1\LinearEquationResolver\obj\Debug\net5.0\LinearEquationResolver.genruntimeconfig.cache
