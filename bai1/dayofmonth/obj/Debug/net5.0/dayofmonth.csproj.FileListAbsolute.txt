@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.exe
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.deps.json
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.runtimeconfig.json
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.dll
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\ref\dayofmonth.dll
+D:\codegym\Module2\bai1\dayofmonth\bin\Debug\net5.0\dayofmonth.pdb
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.AssemblyInfo.cs
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.dll
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\ref\dayofmonth.dll
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.pdb
+D:\codegym\Module2\bai1\dayofmonth\obj\Debug\net5.0\dayofmonth.genruntimeconfig.cache
