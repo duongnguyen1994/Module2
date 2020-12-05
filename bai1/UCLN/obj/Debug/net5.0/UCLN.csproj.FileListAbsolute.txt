@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.exe
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.deps.json
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.runtimeconfig.json
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.dll
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\ref\UCLN.dll
+D:\codegym\Module2\bai1\UCLN\bin\Debug\net5.0\UCLN.pdb
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.AssemblyInfo.cs
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.dll
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\ref\UCLN.dll
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.pdb
+D:\codegym\Module2\bai1\UCLN\obj\Debug\net5.0\UCLN.genruntimeconfig.cache
