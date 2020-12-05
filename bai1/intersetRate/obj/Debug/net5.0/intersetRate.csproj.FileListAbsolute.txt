@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.AssemblyInfo.cs
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.exe
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.deps.json
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.runtimeconfig.json
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.dll
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\ref\intersetRate.dll
+D:\codegym\Module2\bai1\intersetRate\bin\Debug\net5.0\intersetRate.pdb
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.dll
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\ref\intersetRate.dll
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.pdb
+D:\codegym\Module2\bai1\intersetRate\obj\Debug\net5.0\intersetRate.genruntimeconfig.cache
