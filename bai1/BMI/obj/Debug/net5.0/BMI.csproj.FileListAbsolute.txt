@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.exe
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.deps.json
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.runtimeconfig.json
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.dll
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\ref\BMI.dll
+D:\codegym\Module2\bai1\BMI\bin\Debug\net5.0\BMI.pdb
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.AssemblyInfo.cs
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.dll
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\ref\BMI.dll
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.pdb
+D:\codegym\Module2\bai1\BMI\obj\Debug\net5.0\BMI.genruntimeconfig.cache
