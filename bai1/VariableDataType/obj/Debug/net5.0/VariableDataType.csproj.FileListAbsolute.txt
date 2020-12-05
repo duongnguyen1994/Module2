@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.AssemblyInfo.cs
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.exe
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.deps.json
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.runtimeconfig.json
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.dll
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\ref\VariableDataType.dll
+D:\codegym\Module2\bai1\VariableDataType\bin\Debug\net5.0\VariableDataType.pdb
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.dll
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\ref\VariableDataType.dll
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.pdb
+D:\codegym\Module2\bai1\VariableDataType\obj\Debug\net5.0\VariableDataType.genruntimeconfig.cache
