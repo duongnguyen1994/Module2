@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.exe
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.deps.json
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.runtimeconfig.json
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.dll
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\ref\numberToWord.dll
+D:\codegym\Module2\bai1\numberToWord\bin\Debug\net5.0\numberToWord.pdb
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.AssemblyInfo.cs
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.dll
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\ref\numberToWord.dll
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.pdb
+D:\codegym\Module2\bai1\numberToWord\obj\Debug\net5.0\numberToWord.genruntimeconfig.cache
