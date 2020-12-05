@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.exe
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.deps.json
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.runtimeconfig.json
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.dll
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\ref\greeting.dll
+D:\codegym\Module2\bai1\greeting\bin\Debug\net5.0\greeting.pdb
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.AssemblyInfo.cs
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.dll
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\ref\greeting.dll
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.pdb
+D:\codegym\Module2\bai1\greeting\obj\Debug\net5.0\greeting.genruntimeconfig.cache
