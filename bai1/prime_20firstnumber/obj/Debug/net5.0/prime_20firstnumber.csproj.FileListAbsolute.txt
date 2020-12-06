@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.exe
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.deps.json
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.runtimeconfig.json
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.dll
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\ref\prime_20firstnumber.dll
+D:\codegym\Module2\bai1\prime_20firstnumber\bin\Debug\net5.0\prime_20firstnumber.pdb
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.AssemblyInfo.cs
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.dll
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\ref\prime_20firstnumber.dll
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.pdb
+D:\codegym\Module2\bai1\prime_20firstnumber\obj\Debug\net5.0\prime_20firstnumber.genruntimeconfig.cache
