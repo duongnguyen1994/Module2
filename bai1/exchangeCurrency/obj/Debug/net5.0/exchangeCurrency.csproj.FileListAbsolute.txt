@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.exe
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.deps.json
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.runtimeconfig.json
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.runtimeconfig.dev.json
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.dll
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\ref\exchangeCurrency.dll
+D:\codegym\Module2\bai1\exchangeCurrency\bin\Debug\net5.0\exchangeCurrency.pdb
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.csprojAssemblyReference.cache
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.AssemblyInfo.cs
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.dll
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\ref\exchangeCurrency.dll
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.pdb
+D:\codegym\Module2\bai1\exchangeCurrency\obj\Debug\net5.0\exchangeCurrency.genruntimeconfig.cache
