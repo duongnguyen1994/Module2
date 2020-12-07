@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.exe
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.deps.json
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.runtimeconfig.json
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.dll
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\ref\passTheExam.dll
+D:\codegym\Module2\bai2\passTheExam\bin\Debug\net5.0\passTheExam.pdb
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.AssemblyInfo.cs
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.dll
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\ref\passTheExam.dll
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.pdb
+D:\codegym\Module2\bai2\passTheExam\obj\Debug\net5.0\passTheExam.genruntimeconfig.cache
