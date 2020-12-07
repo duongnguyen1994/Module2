@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.AssemblyInfo.cs
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.exe
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.deps.json
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.runtimeconfig.json
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.dll
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\ref\convertTemp.dll
+D:\codegym\Module2\bai2\convertTemp\bin\Debug\net5.0\convertTemp.pdb
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.dll
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\ref\convertTemp.dll
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.pdb
+D:\codegym\Module2\bai2\convertTemp\obj\Debug\net5.0\convertTemp.genruntimeconfig.cache
