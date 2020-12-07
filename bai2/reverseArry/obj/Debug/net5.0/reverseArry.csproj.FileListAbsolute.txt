@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.AssemblyInfo.cs
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.exe
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.deps.json
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.runtimeconfig.json
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.dll
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\ref\reverseArry.dll
+D:\codegym\Module2\bai2\reverseArry\bin\Debug\net5.0\reverseArry.pdb
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.dll
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\ref\reverseArry.dll
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.pdb
+D:\codegym\Module2\bai2\reverseArry\obj\Debug\net5.0\reverseArry.genruntimeconfig.cache
