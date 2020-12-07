@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.AssemblyInfo.cs
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.exe
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.deps.json
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.runtimeconfig.json
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.dll
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\ref\useArray.dll
+D:\codegym\Module2\bai2\useArray\bin\Debug\net5.0\useArray.pdb
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.dll
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\ref\useArray.dll
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.pdb
+D:\codegym\Module2\bai2\useArray\obj\Debug\net5.0\useArray.genruntimeconfig.cache

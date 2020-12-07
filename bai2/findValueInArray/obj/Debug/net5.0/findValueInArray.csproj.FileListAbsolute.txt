@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.AssemblyInfo.cs
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.exe
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.deps.json
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.runtimeconfig.json
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.dll
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\ref\findValueInArray.dll
+D:\codegym\Module2\bai2\findValueInArray\bin\Debug\net5.0\findValueInArray.pdb
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.dll
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\ref\findValueInArray.dll
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.pdb
+D:\codegym\Module2\bai2\findValueInArray\obj\Debug\net5.0\findValueInArray.genruntimeconfig.cache
