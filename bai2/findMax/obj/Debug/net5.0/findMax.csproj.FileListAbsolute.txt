@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.AssemblyInfo.cs
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.exe
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.deps.json
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.runtimeconfig.json
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.dll
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\ref\findMax.dll
+D:\codegym\Module2\bai2\findMax\bin\Debug\net5.0\findMax.pdb
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.dll
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\ref\findMax.dll
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.pdb
+D:\codegym\Module2\bai2\findMax\obj\Debug\net5.0\findMax.genruntimeconfig.cache
