@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.AssemblyInfo.cs
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.exe
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.deps.json
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.runtimeconfig.json
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.dll
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\ref\addValueToArray.dll
+D:\codegym\Module2\bai2\addValueToArray\bin\Debug\net5.0\addValueToArray.pdb
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.dll
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\ref\addValueToArray.dll
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.pdb
+D:\codegym\Module2\bai2\addValueToArray\obj\Debug\net5.0\addValueToArray.genruntimeconfig.cache
