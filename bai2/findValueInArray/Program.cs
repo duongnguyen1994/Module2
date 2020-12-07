@@ -10,18 +10,19 @@ namespace findValueInArray
             Console.WriteLine("Enter a name's student: ");
             string name = Console.ReadLine();
             name = toUpperCase(name);
-            for(int i=0; i<students.Length ;i++)
+            bool check = true;
+            for(int i = 0; i<students.Length; i++)
             {
                 if(name == students[i])
                 {
                     Console.WriteLine($"Position of {name} in list is {i+1}");
+                    check = false;
                     break;
                 }
-                else
-                {
-                    Console.WriteLine($"{name} is not in this list");
-                    break;
-                }
+            }
+            if(check)
+            {
+                Console.WriteLine($"{name} is not in list");
             }
         }
         static string toUpperCase(string input)
