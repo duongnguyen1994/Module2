@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.AssemblyInfo.cs
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.exe
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.deps.json
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.runtimeconfig.json
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.dll
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\ref\findMin.dll
+D:\codegym\Module2\bai2\findMin\bin\Debug\net5.0\findMin.pdb
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.dll
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\ref\findMin.dll
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.pdb
+D:\codegym\Module2\bai2\findMin\obj\Debug\net5.0\findMin.genruntimeconfig.cache
