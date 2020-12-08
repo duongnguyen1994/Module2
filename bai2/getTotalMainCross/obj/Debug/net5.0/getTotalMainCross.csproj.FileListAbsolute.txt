@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.AssemblyInfo.cs
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.exe
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.deps.json
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.runtimeconfig.json
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.dll
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\ref\getTotalMainCross.dll
+D:\codegym\Module2\bai2\getTotalMainCross\bin\Debug\net5.0\getTotalMainCross.pdb
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.dll
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\ref\getTotalMainCross.dll
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.pdb
+D:\codegym\Module2\bai2\getTotalMainCross\obj\Debug\net5.0\getTotalMainCross.genruntimeconfig.cache
