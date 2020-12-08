@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.exe
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.deps.json
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.runtimeconfig.json
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.dll
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\ref\findMinInMatrix.dll
+D:\codegym\Module2\bai2\findMinInMatrix\bin\Debug\net5.0\findMinInMatrix.pdb
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.AssemblyInfo.cs
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.dll
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\ref\findMinInMatrix.dll
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.pdb
+D:\codegym\Module2\bai2\findMinInMatrix\obj\Debug\net5.0\findMinInMatrix.genruntimeconfig.cache
