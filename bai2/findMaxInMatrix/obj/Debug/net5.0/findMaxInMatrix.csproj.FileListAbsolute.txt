@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.exe
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.deps.json
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.runtimeconfig.json
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.dll
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\ref\findMaxInMatrix.dll
+D:\codegym\Module2\bai2\findMaxInMatrix\bin\Debug\net5.0\findMaxInMatrix.pdb
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.AssemblyInfo.cs
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.dll
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\ref\findMaxInMatrix.dll
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.pdb
+D:\codegym\Module2\bai2\findMaxInMatrix\obj\Debug\net5.0\findMaxInMatrix.genruntimeconfig.cache
