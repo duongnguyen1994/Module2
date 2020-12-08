@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.exe
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.deps.json
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.runtimeconfig.json
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.dll
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\ref\countCharacterInString.dll
+D:\codegym\Module2\bai2\countCharacterInString\bin\Debug\net5.0\countCharacterInString.pdb
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.AssemblyInfo.cs
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.dll
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\ref\countCharacterInString.dll
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.pdb
+D:\codegym\Module2\bai2\countCharacterInString\obj\Debug\net5.0\countCharacterInString.genruntimeconfig.cache
