@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.AssemblyInfo.cs
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.exe
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.deps.json
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.runtimeconfig.json
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.dll
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\ref\deleteValueOfArray.dll
+D:\codegym\Module2\bai2\deleteValueOfArray\bin\Debug\net5.0\deleteValueOfArray.pdb
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.dll
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\ref\deleteValueOfArray.dll
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.pdb
+D:\codegym\Module2\bai2\deleteValueOfArray\obj\Debug\net5.0\deleteValueOfArray.genruntimeconfig.cache
