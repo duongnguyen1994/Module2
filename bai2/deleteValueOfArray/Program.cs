@@ -6,7 +6,7 @@ namespace deleteValueOfArray
     {
         static void Main(string[] args)
         {
-            int[] array = new int[10]{1,2,3,4,5,6,7,8,9,10};
+            int[] array = {1,1,3,4,5,6,1,8,9,10};
             bool check = true;
             int value = 0;
             do
@@ -14,7 +14,8 @@ namespace deleteValueOfArray
                 Console.WriteLine("Enter value");
                 check = int.TryParse(Console.ReadLine(), out value);
             }while(!check);
-            for(int i =0;i<array.Length;i++)
+            int i = 0;
+            while(i<array.Length)
             {
                 if(value==array[i])
                 {
@@ -23,6 +24,11 @@ namespace deleteValueOfArray
                         array[j] = array[j+1];
                     }
                     array[array.Length-1] = 0;
+                    i=0;
+                }
+                else
+                {
+                    i++;
                 }
             }
             foreach(var item in array)
