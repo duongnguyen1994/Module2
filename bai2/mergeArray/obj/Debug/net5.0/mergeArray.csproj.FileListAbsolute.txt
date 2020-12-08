@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.exe
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.deps.json
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.runtimeconfig.json
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.dll
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\ref\mergeArray.dll
+D:\codegym\Module2\bai2\mergeArray\bin\Debug\net5.0\mergeArray.pdb
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.AssemblyInfo.cs
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.dll
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\ref\mergeArray.dll
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.pdb
+D:\codegym\Module2\bai2\mergeArray\obj\Debug\net5.0\mergeArray.genruntimeconfig.cache
