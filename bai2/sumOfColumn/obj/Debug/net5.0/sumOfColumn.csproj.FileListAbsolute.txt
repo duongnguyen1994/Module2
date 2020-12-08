@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.exe
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.deps.json
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.runtimeconfig.json
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.runtimeconfig.dev.json
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.dll
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\ref\sumOfColumn.dll
+D:\codegym\Module2\bai2\sumOfColumn\bin\Debug\net5.0\sumOfColumn.pdb
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.csprojAssemblyReference.cache
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.AssemblyInfo.cs
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.dll
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\ref\sumOfColumn.dll
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.pdb
+D:\codegym\Module2\bai2\sumOfColumn\obj\Debug\net5.0\sumOfColumn.genruntimeconfig.cache
