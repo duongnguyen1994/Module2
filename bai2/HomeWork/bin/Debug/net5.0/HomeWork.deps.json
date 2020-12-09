@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "StopWatch/1.0.0": {
+      "HomeWork/1.0.0": {
         "runtime": {
-          "StopWatch.dll": {}
+          "HomeWork.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "StopWatch/1.0.0": {
+    "HomeWork/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

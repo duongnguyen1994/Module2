@@ -6,7 +6,7 @@ namespace StopWatch
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
