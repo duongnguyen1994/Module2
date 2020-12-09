@@ -5,6 +5,7 @@ namespace QuadraticEquation
     public class QuadraticEquation
     {
         private double a, b, c;
+        public QuadraticEquation(){}
         public QuadraticEquation(double a, double b, double c)
         {
             this.a = a;
@@ -12,19 +13,22 @@ namespace QuadraticEquation
             this.c = c;
         }
 
-        public double GetterA()
+        public double GetterA
         {
-            return this.a;
+            get{return this.a;}
+            set {a = value;}
         }
 
-        public double GetterB()
+        public double GetterB
         {
-            return this.b;
+            get {return this.b;}
+            set {b = value;}
         }
 
-        public double GetterC()
+        public double GetterC
         {
-            return this.c;
+            get {return this.c;}
+            set {c = value;}
         }
 
         public double GetDiscriminant()
@@ -62,7 +66,10 @@ namespace QuadraticEquation
                 Console.WriteLine("Enter c:");
                 checkc = double.TryParse(Console.ReadLine(), out c);
             }while(!checka||!checkb||!checkc);
-            QuadraticEquation quadraticEquation = new QuadraticEquation(a,b,c);
+            QuadraticEquation quadraticEquation = new QuadraticEquation();
+            quadraticEquation.GetterA = a;
+            quadraticEquation.GetterB = b;
+            quadraticEquation.GetterC = c;
             delta = quadraticEquation.GetDiscriminant();
             if(delta>0)
             {
