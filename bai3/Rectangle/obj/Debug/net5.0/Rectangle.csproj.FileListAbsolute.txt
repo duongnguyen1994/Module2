@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.exe
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.deps.json
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.runtimeconfig.json
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.runtimeconfig.dev.json
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.dll
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\ref\Rectangle.dll
+D:\codegym\Module2\bai3\Rectangle\bin\Debug\net5.0\Rectangle.pdb
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.csprojAssemblyReference.cache
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.AssemblyInfo.cs
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.dll
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\ref\Rectangle.dll
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.pdb
+D:\codegym\Module2\bai3\Rectangle\obj\Debug\net5.0\Rectangle.genruntimeconfig.cache
