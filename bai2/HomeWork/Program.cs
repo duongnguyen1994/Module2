@@ -206,21 +206,21 @@ namespace HomeWork
         }
         static int ProductOfRow(int[,] matrix, int RowIndex)
         {
-            int sum = 1;
+            int product = 1;
             for (int i = 0; i < matrix.GetLength(1); i++)
             {
-                sum += matrix[RowIndex, i];
+                product *= matrix[RowIndex, i];
             }
-            return sum;
+            return product;
         }
         static int ProductOfCol(int[,] matrix, int ColumnIndex)
         {
-            int sum = 1;
+            int product = 1;
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                sum *= matrix[i, ColumnIndex];
+                product *= matrix[i, ColumnIndex];
             }
-            return sum;
+            return product;
         }
     }
 }
