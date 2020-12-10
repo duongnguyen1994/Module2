@@ -196,17 +196,17 @@ namespace HomeWork
             int sum = 0;
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                sum += matrix[i, 0] + matrix[matrix.GetLength(0) - 1, i];
+                sum += matrix[i, 0] + matrix[i,matrix.GetLength(1) - 1];
             }
-            for (int j = 1; j < matrix.GetLength(1) - 2; j++)
+            for (int j = 1; j < matrix.GetLength(1) - 1; j++)
             {
-                sum += matrix[1, j] + matrix[matrix.GetLength(0) - 1, j];
+                sum += matrix[0, j] + matrix[matrix.GetLength(0) - 1, j];
             }
             return sum;
         }
         static int ProductOfRow(int[,] matrix, int RowIndex)
         {
-            int sum = 0;
+            int sum = 1;
             for (int i = 0; i < matrix.GetLength(1); i++)
             {
                 sum += matrix[RowIndex, i];
@@ -215,10 +215,10 @@ namespace HomeWork
         }
         static int ProductOfCol(int[,] matrix, int ColumnIndex)
         {
-            int sum = 0;
+            int sum = 1;
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                sum += matrix[i, ColumnIndex];
+                sum *= matrix[i, ColumnIndex];
             }
             return sum;
         }
