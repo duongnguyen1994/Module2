@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.csprojAssemblyReference.cache
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.AssemblyInfo.cs
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.exe
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.deps.json
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.runtimeconfig.json
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.runtimeconfig.dev.json
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.dll
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\ref\Fan.dll
+D:\codegym\Module2\bai3\Fan\bin\Debug\net5.0\Fan.pdb
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.dll
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\ref\Fan.dll
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.pdb
+D:\codegym\Module2\bai3\Fan\obj\Debug\net5.0\Fan.genruntimeconfig.cache

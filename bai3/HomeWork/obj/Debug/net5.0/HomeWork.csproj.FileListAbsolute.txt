@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.csprojAssemblyReference.cache
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.AssemblyInfo.cs
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.exe
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.deps.json
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.runtimeconfig.json
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.runtimeconfig.dev.json
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.dll
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\ref\HomeWork.dll
+D:\codegym\Module2\bai3\HomeWork\bin\Debug\net5.0\HomeWork.pdb
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.dll
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\ref\HomeWork.dll
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.pdb
+D:\codegym\Module2\bai3\HomeWork\obj\Debug\net5.0\HomeWork.genruntimeconfig.cache
