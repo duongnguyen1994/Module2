@@ -10,7 +10,7 @@ namespace ConsoleApp
             int sum = pc.Sum(1,1);
 
             InternalLib.Class1 ic = new InternalLib.Class1();
-            sum = ic.Sum(2,2);
+            // sum = ic.Sum(2,2);
         }
     }
 }

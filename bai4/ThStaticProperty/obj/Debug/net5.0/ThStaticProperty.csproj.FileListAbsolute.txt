@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.csprojAssemblyReference.cache
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.AssemblyInfo.cs
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.exe
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.deps.json
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.runtimeconfig.json
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.runtimeconfig.dev.json
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.dll
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ref\ThStaticProperty.dll
+D:\codegym\Module2\bai4\ThStaticProperty\bin\Debug\net5.0\ThStaticProperty.pdb
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.dll
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ref\ThStaticProperty.dll
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.pdb
+D:\codegym\Module2\bai4\ThStaticProperty\obj\Debug\net5.0\ThStaticProperty.genruntimeconfig.cache
