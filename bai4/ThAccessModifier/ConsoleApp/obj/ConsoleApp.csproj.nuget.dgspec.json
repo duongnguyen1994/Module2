@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Trung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\InternalLib.csproj": {
+                "projectPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\InternalLib.csproj"
+              },
+              "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\PublicLib.csproj": {
+                "projectPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\PublicLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\InternalLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\InternalLib.csproj",
+        "projectName": "InternalLib",
+        "projectPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\InternalLib.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\InternalLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Trung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\PublicLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\PublicLib.csproj",
+        "projectName": "PublicLib",
+        "projectPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\PublicLib.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\codegym\\Module2\\bai4\\ThAccessModifier\\PublicLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Trung Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

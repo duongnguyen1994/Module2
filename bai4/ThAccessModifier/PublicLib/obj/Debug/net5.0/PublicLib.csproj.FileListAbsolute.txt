@@ -1,0 +1,12 @@
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\bin\Debug\net5.0\PublicLib.deps.json
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\bin\Debug\net5.0\PublicLib.dll
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\bin\Debug\net5.0\ref\PublicLib.dll
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\bin\Debug\net5.0\PublicLib.pdb
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.csprojAssemblyReference.cache
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.AssemblyInfo.cs
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.dll
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\ref\PublicLib.dll
+D:\codegym\Module2\bai4\ThAccessModifier\PublicLib\obj\Debug\net5.0\PublicLib.pdb
