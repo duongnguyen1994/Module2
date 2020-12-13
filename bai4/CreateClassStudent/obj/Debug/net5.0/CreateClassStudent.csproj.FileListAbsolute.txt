@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.exe
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.deps.json
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.runtimeconfig.json
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.runtimeconfig.dev.json
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.dll
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\ref\CreateClassStudent.dll
+D:\codegym\Module2\bai4\CreateClassStudent\bin\Debug\net5.0\CreateClassStudent.pdb
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.csprojAssemblyReference.cache
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.AssemblyInfo.cs
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.dll
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\ref\CreateClassStudent.dll
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.pdb
+D:\codegym\Module2\bai4\CreateClassStudent\obj\Debug\net5.0\CreateClassStudent.genruntimeconfig.cache
