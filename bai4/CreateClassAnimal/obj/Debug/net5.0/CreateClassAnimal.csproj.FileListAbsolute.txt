@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.csprojAssemblyReference.cache
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.AssemblyInfo.cs
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.exe
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.deps.json
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.runtimeconfig.json
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.runtimeconfig.dev.json
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.dll
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\ref\CreateClassAnimal.dll
+D:\codegym\Module2\bai4\CreateClassAnimal\bin\Debug\net5.0\CreateClassAnimal.pdb
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.dll
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\ref\CreateClassAnimal.dll
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.pdb
+D:\codegym\Module2\bai4\CreateClassAnimal\obj\Debug\net5.0\CreateClassAnimal.genruntimeconfig.cache
