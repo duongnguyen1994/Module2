@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BT_AccessModifier/1.0.0": {
+        "runtime": {
+          "BT_AccessModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT_AccessModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

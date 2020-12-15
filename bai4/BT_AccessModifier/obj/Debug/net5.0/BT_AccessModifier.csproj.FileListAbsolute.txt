@@ -1,0 +1,16 @@
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.exe
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.deps.json
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.runtimeconfig.json
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.runtimeconfig.dev.json
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.dll
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\ref\BT_AccessModifier.dll
+D:\codegym\Module2\bai4\BT_AccessModifier\bin\Debug\net5.0\BT_AccessModifier.pdb
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.csprojAssemblyReference.cache
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.AssemblyInfo.cs
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.dll
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\ref\BT_AccessModifier.dll
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.pdb
+D:\codegym\Module2\bai4\BT_AccessModifier\obj\Debug\net5.0\BT_AccessModifier.genruntimeconfig.cache
