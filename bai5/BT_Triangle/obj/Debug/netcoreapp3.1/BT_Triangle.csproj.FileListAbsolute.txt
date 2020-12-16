@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.exe
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.deps.json
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.runtimeconfig.json
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.runtimeconfig.dev.json
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.dll
+D:\codegym\Module2\bai5\BT_Triangle\bin\Debug\netcoreapp3.1\BT_Triangle.pdb
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.csprojAssemblyReference.cache
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.AssemblyInfo.cs
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.dll
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.pdb
+D:\codegym\Module2\bai5\BT_Triangle\obj\Debug\netcoreapp3.1\BT_Triangle.genruntimeconfig.cache

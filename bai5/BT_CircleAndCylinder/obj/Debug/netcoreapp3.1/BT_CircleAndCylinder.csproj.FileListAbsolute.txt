@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.csprojAssemblyReference.cache
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.AssemblyInfo.cs
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.exe
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.deps.json
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.runtimeconfig.json
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.runtimeconfig.dev.json
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.dll
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\bin\Debug\netcoreapp3.1\BT_CircleAndCylinder.pdb
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.dll
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.pdb
+D:\codegym\Module2\bai5\BT_CircleAndCylinder\obj\Debug\netcoreapp3.1\BT_CircleAndCylinder.genruntimeconfig.cache

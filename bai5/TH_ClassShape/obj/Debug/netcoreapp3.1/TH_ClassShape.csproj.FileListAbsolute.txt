@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.exe
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.deps.json
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.runtimeconfig.json
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.runtimeconfig.dev.json
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.dll
+D:\codegym\Module2\bai5\TH_ClassShape\bin\Debug\netcoreapp3.1\TH_ClassShape.pdb
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.csprojAssemblyReference.cache
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.AssemblyInfo.cs
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.dll
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.pdb
+D:\codegym\Module2\bai5\TH_ClassShape\obj\Debug\netcoreapp3.1\TH_ClassShape.genruntimeconfig.cache

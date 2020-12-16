@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.exe
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.deps.json
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.runtimeconfig.json
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.runtimeconfig.dev.json
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.dll
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\bin\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.pdb
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.csprojAssemblyReference.cache
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.AssemblyInfo.cs
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.dll
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.pdb
+D:\codegym\Module2\bai5\BT_PointAndMoveablePoint\obj\Debug\netcoreapp3.1\BT_PointAndMoveablePoint.genruntimeconfig.cache
