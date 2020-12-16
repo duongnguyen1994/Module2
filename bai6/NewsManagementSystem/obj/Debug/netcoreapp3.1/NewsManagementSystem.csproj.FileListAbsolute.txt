@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.exe
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.deps.json
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.runtimeconfig.json
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.runtimeconfig.dev.json
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.dll
+D:\codegym\Module2\bai6\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.pdb
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.csprojAssemblyReference.cache
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.AssemblyInfo.cs
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.dll
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.pdb
+D:\codegym\Module2\bai6\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.genruntimeconfig.cache
