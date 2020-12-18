@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.csprojAssemblyReference.cache
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.AssemblyInfo.cs
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.exe
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.deps.json
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.runtimeconfig.json
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.runtimeconfig.dev.json
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.dll
+D:\codegym\Module2\bai7\Tennis\bin\Debug\netcoreapp3.1\Tennis.pdb
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.dll
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.pdb
+D:\codegym\Module2\bai7\Tennis\obj\Debug\netcoreapp3.1\Tennis.genruntimeconfig.cache

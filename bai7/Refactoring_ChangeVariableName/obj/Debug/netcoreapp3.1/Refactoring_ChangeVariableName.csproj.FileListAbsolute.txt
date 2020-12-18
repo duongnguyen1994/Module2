@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.exe
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.deps.json
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.runtimeconfig.json
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.runtimeconfig.dev.json
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.dll
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\bin\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.pdb
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.csprojAssemblyReference.cache
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.AssemblyInfo.cs
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.dll
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.pdb
+D:\codegym\Module2\bai7\Refactoring_ChangeVariableName\obj\Debug\netcoreapp3.1\Refactoring_ChangeVariableName.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.csprojAssemblyReference.cache
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.AssemblyInfo.cs
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.exe
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.deps.json
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.runtimeconfig.json
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.runtimeconfig.dev.json
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.dll
+D:\codegym\Module2\bai6\TH_Interface_ICompare\bin\Debug\netcoreapp3.1\TH_Interface_ICompare.pdb
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.dll
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.pdb
+D:\codegym\Module2\bai6\TH_Interface_ICompare\obj\Debug\netcoreapp3.1\TH_Interface_ICompare.genruntimeconfig.cache
