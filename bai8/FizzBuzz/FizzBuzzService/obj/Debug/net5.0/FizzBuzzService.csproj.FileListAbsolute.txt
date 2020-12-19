@@ -1,0 +1,12 @@
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\bin\Debug\net5.0\FizzBuzzService.deps.json
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\bin\Debug\net5.0\FizzBuzzService.dll
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\bin\Debug\net5.0\ref\FizzBuzzService.dll
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\bin\Debug\net5.0\FizzBuzzService.pdb
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.csprojAssemblyReference.cache
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.AssemblyInfo.cs
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.dll
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\ref\FizzBuzzService.dll
+D:\codegym\Module2\bai8\FizzBuzz\FizzBuzzService\obj\Debug\net5.0\FizzBuzzService.pdb
