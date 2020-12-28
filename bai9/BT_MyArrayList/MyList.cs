@@ -5,8 +5,9 @@ using System.Text;
 
 namespace BT_MyArrayList
 {
-    class MyList<T>
+    class MyList<T> 
     {
+        private static int size;
         private int capacity;
 
         public int Capacity
@@ -43,10 +44,12 @@ namespace BT_MyArrayList
             {
                 Array.Resize(ref list, 2);
                 capacity = 2;
+                size = capacity;
             }else if(count == capacity)
             {
                 Array.Resize(ref list, capacity * 2);
                 capacity = capacity * 2;
+                size = capacity;
             }
             list[count] = item;
             count++;
@@ -140,11 +143,13 @@ namespace BT_MyArrayList
             {
                 Array.Resize(ref list, 2);
                 capacity = 2;
+                size = capacity;
             }
             else if (count == capacity)
             {
                 Array.Resize(ref list, capacity * 2);
                 capacity = capacity * 2;
+                size = capacity;
             }
             ++count;
             for(int i = count-1;i>index;i--)
@@ -194,6 +199,14 @@ namespace BT_MyArrayList
                 list[i] = list[count - 1 - i];
                 list[count - 1 - i] = temp;
             }
+        }
+        public void Sort()
+        {
+            
+        }
+        public void TrimToSize()
+        {
+            capacity = size;
         }
     }
 }
