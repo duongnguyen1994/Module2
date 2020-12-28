@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.exe
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.deps.json
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.runtimeconfig.json
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.runtimeconfig.dev.json
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.dll
+D:\codegym\Module2\bai9\TH_SimpleList\bin\Debug\netcoreapp3.1\TH_SimpleList.pdb
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.AssemblyInfo.cs
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.dll
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.pdb
+D:\codegym\Module2\bai9\TH_SimpleList\obj\Debug\netcoreapp3.1\TH_SimpleList.genruntimeconfig.cache

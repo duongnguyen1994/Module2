@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.exe
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.deps.json
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.runtimeconfig.json
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.runtimeconfig.dev.json
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.dll
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\bin\Debug\netcoreapp3.1\TH_SimpleLinkedList.pdb
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.AssemblyInfo.cs
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.dll
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.pdb
+D:\codegym\Module2\bai9\TH_SimpleLinkedList\obj\Debug\netcoreapp3.1\TH_SimpleLinkedList.genruntimeconfig.cache
