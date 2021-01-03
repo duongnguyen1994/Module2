@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.exe
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.deps.json
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.runtimeconfig.json
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.dll
+D:\codegym\Module2\bai10\BT_IsPalindrome\bin\Debug\netcoreapp3.1\BT_IsPalindrome.pdb
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.AssemblyInfo.cs
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.dll
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.pdb
+D:\codegym\Module2\bai10\BT_IsPalindrome\obj\Debug\netcoreapp3.1\BT_IsPalindrome.genruntimeconfig.cache

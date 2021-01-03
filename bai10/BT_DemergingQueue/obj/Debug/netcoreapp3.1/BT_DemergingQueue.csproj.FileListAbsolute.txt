@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.exe
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.deps.json
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.runtimeconfig.json
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.dll
+D:\codegym\Module2\bai10\BT_DemergingQueue\bin\Debug\netcoreapp3.1\BT_DemergingQueue.pdb
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.AssemblyInfo.cs
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.dll
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.pdb
+D:\codegym\Module2\bai10\BT_DemergingQueue\obj\Debug\netcoreapp3.1\BT_DemergingQueue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.exe
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.deps.json
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.runtimeconfig.json
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.dll
+D:\codegym\Module2\bai10\TH_ArrayStack\bin\Debug\netcoreapp3.1\TH_ArrayStack.pdb
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.AssemblyInfo.cs
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.dll
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.pdb
+D:\codegym\Module2\bai10\TH_ArrayStack\obj\Debug\netcoreapp3.1\TH_ArrayStack.genruntimeconfig.cache

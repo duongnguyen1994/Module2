@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.exe
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.deps.json
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.runtimeconfig.json
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.dll
+D:\codegym\Module2\bai10\TH_QueueLinkedList\bin\Debug\netcoreapp3.1\TH_QueueLinkedList.pdb
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.AssemblyInfo.cs
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.dll
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.pdb
+D:\codegym\Module2\bai10\TH_QueueLinkedList\obj\Debug\netcoreapp3.1\TH_QueueLinkedList.genruntimeconfig.cache

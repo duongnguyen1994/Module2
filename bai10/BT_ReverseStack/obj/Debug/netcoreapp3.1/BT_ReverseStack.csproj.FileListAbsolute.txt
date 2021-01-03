@@ -1,0 +1,12 @@
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.exe
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.deps.json
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.runtimeconfig.json
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.dll
+D:\codegym\Module2\bai10\BT_ReverseStack\bin\Debug\netcoreapp3.1\BT_ReverseStack.pdb
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.AssemblyInfo.cs
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.dll
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.pdb
+D:\codegym\Module2\bai10\BT_ReverseStack\obj\Debug\netcoreapp3.1\BT_ReverseStack.genruntimeconfig.cache

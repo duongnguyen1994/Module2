@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.AssemblyInfo.cs
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.exe
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.deps.json
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.runtimeconfig.json
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.dll
+D:\codegym\Module2\bai10\BT_CheckBracket\bin\Debug\netcoreapp3.1\BT_CheckBracket.pdb
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.dll
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.pdb
+D:\codegym\Module2\bai10\BT_CheckBracket\obj\Debug\netcoreapp3.1\BT_CheckBracket.genruntimeconfig.cache

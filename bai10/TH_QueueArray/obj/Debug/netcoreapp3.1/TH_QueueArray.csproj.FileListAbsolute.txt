@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.exe
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.deps.json
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.runtimeconfig.json
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.dll
+D:\codegym\Module2\bai10\TH_QueueArray\bin\Debug\netcoreapp3.1\TH_QueueArray.pdb
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.AssemblyInfo.cs
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.dll
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.pdb
+D:\codegym\Module2\bai10\TH_QueueArray\obj\Debug\netcoreapp3.1\TH_QueueArray.genruntimeconfig.cache

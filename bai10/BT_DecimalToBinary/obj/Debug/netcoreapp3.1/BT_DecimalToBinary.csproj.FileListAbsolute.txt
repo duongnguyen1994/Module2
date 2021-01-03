@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.exe
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.deps.json
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.runtimeconfig.json
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.dll
+D:\codegym\Module2\bai10\BT_DecimalToBinary\bin\Debug\netcoreapp3.1\BT_DecimalToBinary.pdb
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.AssemblyInfo.cs
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.dll
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.pdb
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.genruntimeconfig.cache
+D:\codegym\Module2\bai10\BT_DecimalToBinary\obj\Debug\netcoreapp3.1\BT_DecimalToBinary.csprojAssemblyReference.cache

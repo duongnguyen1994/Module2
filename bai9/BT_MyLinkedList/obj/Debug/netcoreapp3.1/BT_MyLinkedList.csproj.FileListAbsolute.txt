@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.exe
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.deps.json
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.runtimeconfig.json
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.runtimeconfig.dev.json
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.dll
+D:\codegym\Module2\bai9\BT_MyLinkedList\bin\Debug\netcoreapp3.1\BT_MyLinkedList.pdb
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.AssemblyInfo.cs
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.dll
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.pdb
+D:\codegym\Module2\bai9\BT_MyLinkedList\obj\Debug\netcoreapp3.1\BT_MyLinkedList.genruntimeconfig.cache

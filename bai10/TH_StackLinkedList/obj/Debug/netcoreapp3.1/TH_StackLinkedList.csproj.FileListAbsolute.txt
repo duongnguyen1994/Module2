@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.exe
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.deps.json
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.runtimeconfig.json
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.runtimeconfig.dev.json
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.dll
+D:\codegym\Module2\bai10\TH_StackLinkedList\bin\Debug\netcoreapp3.1\TH_StackLinkedList.pdb
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.AssemblyInfo.cs
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.dll
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.pdb
+D:\codegym\Module2\bai10\TH_StackLinkedList\obj\Debug\netcoreapp3.1\TH_StackLinkedList.genruntimeconfig.cache
