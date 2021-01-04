@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.exe
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.deps.json
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.runtimeconfig.json
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.dll
+D:\codegym\Module2\bai11\BT_ArrayListLinq\bin\Debug\netcoreapp3.1\BT_ArrayListLinq.pdb
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.AssemblyInfo.cs
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.dll
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.pdb
+D:\codegym\Module2\bai11\BT_ArrayListLinq\obj\Debug\netcoreapp3.1\BT_ArrayListLinq.genruntimeconfig.cache

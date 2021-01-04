@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.exe
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.deps.json
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.runtimeconfig.json
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.dll
+D:\codegym\Module2\bai11\TH_Dictionary\bin\Debug\netcoreapp3.1\TH_Dictionary.pdb
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.AssemblyInfo.cs
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.dll
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.pdb
+D:\codegym\Module2\bai11\TH_Dictionary\obj\Debug\netcoreapp3.1\TH_Dictionary.genruntimeconfig.cache

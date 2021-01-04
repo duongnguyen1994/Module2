@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.exe
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.deps.json
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.runtimeconfig.json
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.dll
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\bin\Debug\netcoreapp3.1\BT_MyCollectionGeneric.pdb
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.AssemblyInfo.cs
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.dll
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.pdb
+D:\codegym\Module2\bai11\BT_MyCollectionGeneric\obj\Debug\netcoreapp3.1\BT_MyCollectionGeneric.genruntimeconfig.cache

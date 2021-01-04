@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.exe
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.deps.json
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.runtimeconfig.json
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.dll
+D:\codegym\Module2\bai11\TH_SortedList\bin\Debug\netcoreapp3.1\TH_SortedList.pdb
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.AssemblyInfo.cs
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.dll
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.pdb
+D:\codegym\Module2\bai11\TH_SortedList\obj\Debug\netcoreapp3.1\TH_SortedList.genruntimeconfig.cache

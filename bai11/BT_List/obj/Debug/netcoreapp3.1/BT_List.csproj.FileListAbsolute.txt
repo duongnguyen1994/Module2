@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.exe
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.deps.json
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.runtimeconfig.json
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.dll
+D:\codegym\Module2\bai11\BT_List\bin\Debug\netcoreapp3.1\BT_List.pdb
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.AssemblyInfo.cs
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.dll
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.pdb
+D:\codegym\Module2\bai11\BT_List\obj\Debug\netcoreapp3.1\BT_List.genruntimeconfig.cache

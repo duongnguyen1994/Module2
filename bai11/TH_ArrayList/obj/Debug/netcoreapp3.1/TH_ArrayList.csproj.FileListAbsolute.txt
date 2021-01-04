@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.exe
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.deps.json
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.runtimeconfig.json
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.runtimeconfig.dev.json
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.dll
+D:\codegym\Module2\bai11\TH_ArrayList\bin\Debug\netcoreapp3.1\TH_ArrayList.pdb
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.csprojAssemblyReference.cache
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.AssemblyInfo.cs
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.dll
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.pdb
+D:\codegym\Module2\bai11\TH_ArrayList\obj\Debug\netcoreapp3.1\TH_ArrayList.genruntimeconfig.cache
