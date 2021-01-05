@@ -1,0 +1,13 @@
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.exe
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.deps.json
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.runtimeconfig.json
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.runtimeconfig.dev.json
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.dll
+D:\codegym\Module2\BT_Sort\bin\Debug\netcoreapp3.1\BT_Sort.pdb
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.csprojAssemblyReference.cache
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.AssemblyInfoInputs.cache
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.AssemblyInfo.cs
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.dll
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.pdb
+D:\codegym\Module2\BT_Sort\obj\Debug\netcoreapp3.1\BT_Sort.genruntimeconfig.cache
