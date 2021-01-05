@@ -1,0 +1,13 @@
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.exe
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.deps.json
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.runtimeconfig.json
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.runtimeconfig.dev.json
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.dll
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\bin\Debug\netcoreapp3.1\BT_LinkedListQueue.pdb
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.AssemblyInfoInputs.cache
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.AssemblyInfo.cs
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.dll
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.pdb
+C:\Users\Nguyen Trung Duong\source\repos\BT_LinkedListQueue\obj\Debug\netcoreapp3.1\BT_LinkedListQueue.genruntimeconfig.cache
