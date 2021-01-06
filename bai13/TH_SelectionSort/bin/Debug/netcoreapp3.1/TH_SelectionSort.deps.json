@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH_SelectionSort/1.0.0": {
+        "runtime": {
+          "TH_SelectionSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH_SelectionSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

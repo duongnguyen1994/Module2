@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.exe
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.deps.json
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.runtimeconfig.json
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.runtimeconfig.dev.json
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.dll
+D:\codegym\Module2\bai13\BT_BubbleSort\bin\Debug\netcoreapp3.1\BT_BubbleSort.pdb
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.AssemblyInfo.cs
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.dll
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.pdb
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.genruntimeconfig.cache
+D:\codegym\Module2\bai13\BT_BubbleSort\obj\Debug\netcoreapp3.1\BT_BubbleSort.csprojAssemblyReference.cache

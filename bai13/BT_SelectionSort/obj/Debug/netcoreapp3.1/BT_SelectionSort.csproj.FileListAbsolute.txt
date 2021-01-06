@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.exe
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.deps.json
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.runtimeconfig.json
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.runtimeconfig.dev.json
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.dll
+D:\codegym\Module2\bai13\BT_SelectionSort\bin\Debug\netcoreapp3.1\BT_SelectionSort.pdb
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.csprojAssemblyReference.cache
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.AssemblyInfo.cs
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.dll
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.pdb
+D:\codegym\Module2\bai13\BT_SelectionSort\obj\Debug\netcoreapp3.1\BT_SelectionSort.genruntimeconfig.cache

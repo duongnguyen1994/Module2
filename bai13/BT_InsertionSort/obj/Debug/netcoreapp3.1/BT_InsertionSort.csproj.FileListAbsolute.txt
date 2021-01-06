@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.exe
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.deps.json
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.runtimeconfig.json
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.runtimeconfig.dev.json
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.dll
+D:\codegym\Module2\bai13\BT_InsertionSort\bin\Debug\netcoreapp3.1\BT_InsertionSort.pdb
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.csprojAssemblyReference.cache
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.AssemblyInfo.cs
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.dll
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.pdb
+D:\codegym\Module2\bai13\BT_InsertionSort\obj\Debug\netcoreapp3.1\BT_InsertionSort.genruntimeconfig.cache
