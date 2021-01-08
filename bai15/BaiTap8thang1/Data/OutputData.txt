@@ -1,0 +1,19 @@
+Total of even = 111
+Total of border line = 105
+New matrix: 
+5 9
+21 21 6 21 9 15 12 12 15 
+9 9 18 15 9 12 3 18 3 
+3 3 9 21 24 21 18 21 24 
+6 9 6 24 6 15 12 3 9 
+9 6 3 6 15 21 21 24 24 
+
+So:1 xuat hien 6 lan
+So:2 xuat hien 6 lan
+So:3 xuat hien 8 lan
+So:4 xuat hien 4 lan
+So:5 xuat hien 5 lan
+So:6 xuat hien 3 lan
+So:7 xuat hien 8 lan
+So:8 xuat hien 5 lan
+

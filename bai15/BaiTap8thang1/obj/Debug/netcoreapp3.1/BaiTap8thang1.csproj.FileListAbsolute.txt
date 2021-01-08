@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.exe
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.deps.json
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.runtimeconfig.json
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.dll
+D:\codegym\Module2\bai15\BaiTap8thang1\bin\Debug\netcoreapp3.1\BaiTap8thang1.pdb
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.AssemblyInfo.cs
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.dll
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.pdb
+D:\codegym\Module2\bai15\BaiTap8thang1\obj\Debug\netcoreapp3.1\BaiTap8thang1.genruntimeconfig.cache
