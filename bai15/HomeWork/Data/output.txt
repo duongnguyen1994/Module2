@@ -1,0 +1,16 @@
+Even count = 10
+Total of main diagonal: 25
+Total of extra diagonal: 16
+Total of border line: 68
+Show bot triangle: 
+3 
+8 3 
+6 4 8 
+1 1 7 6 
+1 1 7 3 5 
+Show top triangle: 
+3 5 8 6 1 
+  3 8 5 4 
+    8 7 4 
+      6 5 
+        5 
