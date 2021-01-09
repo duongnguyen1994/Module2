@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.exe
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.deps.json
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.runtimeconfig.json
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.runtimeconfig.dev.json
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.dll
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\bin\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.pdb
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.csprojAssemblyReference.cache
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.AssemblyInfo.cs
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.dll
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.pdb
+D:\codegym\Module2\bai12\BT_SettingBinarySearchWithRecursion\obj\Debug\netcoreapp3.1\BT_SettingBinarySearchWithRecursion.genruntimeconfig.cache

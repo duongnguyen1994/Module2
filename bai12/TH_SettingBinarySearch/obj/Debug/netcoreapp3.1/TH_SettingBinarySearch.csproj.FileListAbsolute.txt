@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.exe
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.deps.json
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.runtimeconfig.json
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.runtimeconfig.dev.json
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.dll
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\bin\Debug\netcoreapp3.1\TH_SettingBinarySearch.pdb
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.csprojAssemblyReference.cache
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.AssemblyInfo.cs
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.dll
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.pdb
+D:\codegym\Module2\bai12\TH_SettingBinarySearch\obj\Debug\netcoreapp3.1\TH_SettingBinarySearch.genruntimeconfig.cache

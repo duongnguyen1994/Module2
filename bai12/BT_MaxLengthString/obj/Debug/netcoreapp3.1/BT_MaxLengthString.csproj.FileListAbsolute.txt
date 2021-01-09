@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.exe
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.deps.json
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.runtimeconfig.json
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.runtimeconfig.dev.json
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.dll
+D:\codegym\Module2\bai12\BT_MaxLengthString\bin\Debug\netcoreapp3.1\BT_MaxLengthString.pdb
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.csprojAssemblyReference.cache
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.AssemblyInfo.cs
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.dll
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.pdb
+D:\codegym\Module2\bai12\BT_MaxLengthString\obj\Debug\netcoreapp3.1\BT_MaxLengthString.genruntimeconfig.cache
