@@ -1,0 +1,12 @@
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.exe
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.deps.json
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.runtimeconfig.json
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.dll
+D:\codegym\Module2\bai14\BT_OverflowException\bin\Debug\netcoreapp3.1\BT_OverflowException.pdb
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.dll
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.pdb
+D:\codegym\Module2\bai14\BT_OverflowException\obj\Debug\netcoreapp3.1\BT_OverflowException.genruntimeconfig.cache

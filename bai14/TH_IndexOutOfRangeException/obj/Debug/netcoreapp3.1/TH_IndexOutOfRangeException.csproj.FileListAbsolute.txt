@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.exe
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.deps.json
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.runtimeconfig.json
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.dll
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\bin\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.pdb
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.csprojAssemblyReference.cache
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.dll
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.pdb
+D:\codegym\Module2\bai14\TH_IndexOutOfRangeException\obj\Debug\netcoreapp3.1\TH_IndexOutOfRangeException.genruntimeconfig.cache

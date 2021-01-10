@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.exe
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.deps.json
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.runtimeconfig.json
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.dll
+D:\codegym\Module2\bai14\TH_FormatException\bin\Debug\netcoreapp3.1\TH_FormatException.pdb
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.csprojAssemblyReference.cache
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.dll
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.pdb
+D:\codegym\Module2\bai14\TH_FormatException\obj\Debug\netcoreapp3.1\TH_FormatException.genruntimeconfig.cache

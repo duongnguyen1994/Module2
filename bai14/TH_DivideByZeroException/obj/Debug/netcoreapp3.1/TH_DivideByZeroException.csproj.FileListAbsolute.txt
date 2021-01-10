@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.exe
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.deps.json
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.runtimeconfig.json
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.dll
+D:\codegym\Module2\bai14\TH_DivideByZeroException\bin\Debug\netcoreapp3.1\TH_DivideByZeroException.pdb
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.csprojAssemblyReference.cache
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.dll
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.pdb
+D:\codegym\Module2\bai14\TH_DivideByZeroException\obj\Debug\netcoreapp3.1\TH_DivideByZeroException.genruntimeconfig.cache

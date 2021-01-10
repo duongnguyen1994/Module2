@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH_FormatException", "TH_FormatException.csproj", "{DF89E288-6223-4D2F-8FE3-EB740A575C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF89E288-6223-4D2F-8FE3-EB740A575C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF89E288-6223-4D2F-8FE3-EB740A575C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF89E288-6223-4D2F-8FE3-EB740A575C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF89E288-6223-4D2F-8FE3-EB740A575C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F4D6FA-EE48-43E5-BA54-03E590F58236}
+	EndGlobalSection
+EndGlobal

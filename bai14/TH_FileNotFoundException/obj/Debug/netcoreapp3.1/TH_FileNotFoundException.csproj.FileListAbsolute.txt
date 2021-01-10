@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.exe
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.deps.json
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.runtimeconfig.json
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.dll
+D:\codegym\Module2\bai14\TH_FileNotFoundException\bin\Debug\netcoreapp3.1\TH_FileNotFoundException.pdb
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.csprojAssemblyReference.cache
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.dll
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.pdb
+D:\codegym\Module2\bai14\TH_FileNotFoundException\obj\Debug\netcoreapp3.1\TH_FileNotFoundException.genruntimeconfig.cache

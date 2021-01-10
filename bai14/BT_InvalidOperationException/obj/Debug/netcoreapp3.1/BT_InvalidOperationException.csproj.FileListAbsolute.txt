@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.exe
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.deps.json
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.runtimeconfig.json
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.runtimeconfig.dev.json
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.dll
+D:\codegym\Module2\bai14\BT_InvalidOperationException\bin\Debug\netcoreapp3.1\BT_InvalidOperationException.pdb
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.csprojAssemblyReference.cache
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.AssemblyInfo.cs
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.dll
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.pdb
+D:\codegym\Module2\bai14\BT_InvalidOperationException\obj\Debug\netcoreapp3.1\BT_InvalidOperationException.genruntimeconfig.cache
