@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.exe
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.deps.json
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.runtimeconfig.json
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.dll
+D:\codegym\Module2\bai15\TH_CountNumberOfText\bin\Debug\netcoreapp3.1\TH_CountNumberOfText.pdb
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.AssemblyInfo.cs
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.dll
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.pdb
+D:\codegym\Module2\bai15\TH_CountNumberOfText\obj\Debug\netcoreapp3.1\TH_CountNumberOfText.genruntimeconfig.cache

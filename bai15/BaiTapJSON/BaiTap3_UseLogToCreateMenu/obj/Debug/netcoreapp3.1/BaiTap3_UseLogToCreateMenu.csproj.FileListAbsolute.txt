@@ -1,0 +1,15 @@
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.exe
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.deps.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.runtimeconfig.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.pdb
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.AssemblyInfo.cs
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.csproj.CopyComplete
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.pdb
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3_UseLogToCreateMenu\obj\Debug\netcoreapp3.1\BaiTap3_UseLogToCreateMenu.genruntimeconfig.cache

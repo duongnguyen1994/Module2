@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "DTB": 8.75,
+      "XepLoai": "Gioi",
+      "MaHS": 5,
+      "HoTen": "Nguyen Van D",
+      "GioiTinh": "Nam",
+      "Lop": "C1020K1",
+      "MonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 9
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 9
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 8
+        }
+      ]
+    },
+    {
+      "DTB": 7.75,
+      "XepLoai": "Kha",
+      "MaHS": 2,
+      "HoTen": "Nguyen Van A",
+      "GioiTinh": "Nam",
+      "Lop": "C1020K1",
+      "MonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 7
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 8
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 9
+        }
+      ]
+    },
+    {
+      "DTB": 6.5,
+      "XepLoai": "Trung Binh Kha",
+      "MaHS": 4,
+      "HoTen": "Nguyen Thi C",
+      "GioiTinh": "Nu",
+      "Lop": "C1020K1",
+      "MonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 7
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 6
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 6
+        }
+      ]
+    },
+    {
+      "DTB": 5.0,
+      "XepLoai": "Trung Binh",
+      "MaHS": 1,
+      "HoTen": "Nguyen Trung Duong",
+      "GioiTinh": "Nam",
+      "Lop": "C1020K1",
+      "MonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 5
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 5
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 5
+        }
+      ]
+    },
+    {
+      "DTB": 3.75,
+      "XepLoai": "Yeu",
+      "MaHS": 3,
+      "HoTen": "Nguyen Thi B",
+      "GioiTinh": "Nu",
+      "Lop": "C1020K1",
+      "MonHoc": [
+        {
+          "TenMonHoc": "Toan",
+          "DiemThi": 4
+        },
+        {
+          "TenMonHoc": "Ly",
+          "DiemThi": 3
+        },
+        {
+          "TenMonHoc": "Hoa",
+          "DiemThi": 4
+        }
+      ]
+    }
+  ]
+}

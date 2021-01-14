@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.exe
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.deps.json
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.runtimeconfig.json
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.dll
+D:\codegym\Module2\bai15\TH_ReadFileXML\bin\Debug\netcoreapp3.1\TH_ReadFileXML.pdb
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.AssemblyInfo.cs
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.dll
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.pdb
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.genruntimeconfig.cache
+D:\codegym\Module2\bai15\TH_ReadFileXML\obj\Debug\netcoreapp3.1\TH_ReadFileXML.csprojAssemblyReference.cache

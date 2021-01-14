@@ -1,0 +1,15 @@
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.exe
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.deps.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.runtimeconfig.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\BaiTap3.pdb
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.AssemblyInfo.cs
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.csproj.CopyComplete
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.dll
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.pdb
+D:\codegym\Module2\bai15\BaiTapJSON\BaiTap3\obj\Debug\netcoreapp3.1\BaiTap3.genruntimeconfig.cache

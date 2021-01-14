@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CA5F2oBMR3BxrY0oWi8g+jt3hmcAke+y8dndlS42LLfbZknnq/rdWYdQeyBUwKWQVTrxY76nsP+nXFfKWDmvTQ==",
+  "success": true,
+  "projectFilePath": "D:\\codegym\\Module2\\bai15\\BaiTapJSON\\BaiTap2\\BaiTap2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

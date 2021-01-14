@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh76KMuM8fShFU4QirHjF5HdFXmJXWY01h+CsugjqP5QQmk4e9mcTh8qjYr4JRghplHf+hKn/QF6T9/4twi/gw==",
+  "success": true,
+  "projectFilePath": "D:\\codegym\\Module2\\bai15\\BaiTapJSON\\BaiTap3_UseLogToCreateMenu\\BaiTap3_UseLogToCreateMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

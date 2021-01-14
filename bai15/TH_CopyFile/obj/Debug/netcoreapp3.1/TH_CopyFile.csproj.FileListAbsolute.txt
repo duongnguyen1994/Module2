@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.exe
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.deps.json
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.runtimeconfig.json
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.dll
+D:\codegym\Module2\bai15\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.pdb
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.AssemblyInfo.cs
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.dll
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.pdb
+D:\codegym\Module2\bai15\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.genruntimeconfig.cache

@@ -1,0 +1,105 @@
+Name: Nguyen Trung Duong
+Age: 26
+Class: C1020K1
+[Thực hành] Copy các file có dung lượng lớn
+Mục tiêu
+Luyện tập làm việc với file binary.
+
+Mô tả
+Viết một ứng dụng cho phép copy các file có dung lượng lớn.
+
+Ứng dụng cho phép nhập vào đường dẫn của file nguồn, đường dẫn của thư mục đích và sao chép file nguồn sang thư mục đích.
+
+Hướng dẫn
+Bước 1: Tạo class Main, Trong lớp Main thực hiện tạo 2 phương thức private static
+
+private static void CopyFileUsingFileInfo(FileInfo source, FileInfo dest)
+và
+
+private static void copyFileUsingStream(FileInfo source, FileInfo dest)
+Bước 2: Cài đặt phương thức CopyFileUsingFileInfo
+
+Copy file sử dụng FileInfo class
+
+        private static void CopyFileUsingFileInfo(FileInfo source, FileInfo des)
+        {
+            Console.WriteLine("Start Copy using FileInfo");
+            source.CopyTo(des.FullName, true);
+        }
+Bước 3: Cài đặt phương thức copyFileUsingStream
+
+Copy file sử dụng streams
+
+        private static void CopyFileUsingStream(FileInfo source, FileInfo des)
+        {
+            Console.WriteLine("Start Copy using Stream");
+            StreamReader reader = null;
+            StreamWriter writer = null;
+            try
+            {
+                reader = new StreamReader(source.FullName);
+                writer = new StreamWriter(des.FullName);
+                Char[] buffer = new Char[1024];
+                int length;
+                while((length = reader.Read(buffer)) > 0)
+                {
+                    writer.Write(buffer, 0, length);
+                }
+            }
+            finally
+            {
+                reader.Close();
+                reader.Dispose();
+                writer.Close();
+                writer.Dispose();
+            }
+        }
+Bước 4: Tạo method Main cho phép nhập vào đường dẫn của file nguồn, đường dẫn của thư mục đích và gọi 2 method trên và kiểm tra kết quả
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter source file: ");
+            string sourcePath = Console.ReadLine();
+            Console.WriteLine("Enter destination file: ");
+            string destinationPath = Console.ReadLine();
+
+            FileInfo source = new FileInfo(sourcePath);
+            FileInfo des = new FileInfo(destinationPath);
+            try
+            {
+                CopyFileUsingFileInfo(source, des);
+                Console.WriteLine("Copy Completed");
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("Cannot Copy");
+                Console.Error.WriteLine(e.Message);
+            }
+        }
+Bước 5: Chạy chương trình và quan sát kết quả
+
+Output:
+
+TH copy file thành công
+
+Enter source file:
+C:\example\example.txt
+Enter destination file:
+C:\example\example
+Start Copy using FileInfo
+Copy Completed
+
+Enter source file:
+C:\example\example.txt
+Enter destination file:
+C:\example\example
+Start Copy using Stream
+Copy Completed
+TH copy file thất bại
+Enter source file:
+a
+Enter destination file:
+a
+Start Copy using Stream
+Cannot Copy
+Object reference not set to an instance of an object.
