@@ -1,6 +1,6 @@
-Id,Fullname,Dob,Gender,Math,Physics,Chemistry
+﻿Id,Fullname,Dob,Gender,Math,Physics,Chemistry
 1,Sadio Mane,1/1/1994,1,9,7,8.5
 2,Mohamed Salah,2/1/1993,1,7,8,9.75
-3,Nguyen Thi Gai,3/2/2000,0,5,5,4.5
-4,Nguyen Van Nam,9/1/2001,1,6,6.5,7.5
-5,Nguyen Thi Nu,9/9/1999,0,4.5,3.5,5
+3,Nguyễn Thị Gái,3/2/2000,0,5,5,4.5
+4,Nguyễn Văn Nam,9/1/2001,1,6,6.5,7.5
+5,Nguyễn Thị Nữ,9/9/1999,0,4.5,3.5,5

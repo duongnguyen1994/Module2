@@ -4,6 +4,7 @@ using System.IO;
 using CsvHelper;
 using System.Linq;
 using System.Globalization;
+using System.Text;
 
 namespace BaiTapCSV
 {
@@ -15,7 +16,7 @@ namespace BaiTapCSV
             string data = @"Data\FileData.csv";
             string output = @"Data\Output.csv";
             List<Student> listStudents = new List<Student>();
-            using(StreamReader sr = new StreamReader($@"{root}\{data}"))
+            using(StreamReader sr = new StreamReader($@"{root}\{data}", Encoding.UTF8))
             {
                 var csvReader = new CsvReader(sr, CultureInfo.CurrentCulture);
                 listStudents = csvReader.GetRecords<Student>().ToList();
@@ -36,7 +37,7 @@ namespace BaiTapCSV
                 listResult.Add(temp);
             }
 
-            using(StreamWriter sr = new StreamWriter($@"{root}\{output}"))
+            using(StreamWriter sr = new StreamWriter($@"{root}\{output}", false, Encoding.UTF8))
             {
                 var csvWriter = new CsvWriter(sr, CultureInfo.InvariantCulture);
                 csvWriter.WriteRecords(listResult);
