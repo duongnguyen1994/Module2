@@ -1,0 +1,15 @@
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.exe
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.deps.json
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.runtimeconfig.json
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.dll
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\BaiTapCSV.pdb
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.AssemblyInfo.cs
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.dll
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.pdb
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.genruntimeconfig.cache
+D:\codegym\Module2\bai15\BaiTapCSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\codegym\Module2\bai15\BaiTapCSV\obj\Debug\netcoreapp3.1\BaiTapCSV.csproj.CopyComplete

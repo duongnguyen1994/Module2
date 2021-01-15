@@ -131,7 +131,7 @@ namespace BaiTap3_UseLogToCreateMenu
         {
             using (StreamWriter sw = new StreamWriter($@"{path}\{orderLog}"))
             {
-                sw.Write(JsonConvert.SerializeObject(log));
+                sw.Write(JsonConvert.SerializeObject(log, Formatting.Indented));
             }
         }
 
@@ -151,7 +151,7 @@ namespace BaiTap3_UseLogToCreateMenu
                     orderLogToday.log[i].endTime = DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss");
                     using (StreamWriter sw = new StreamWriter($@"{path}\{billPath}"))
                     {
-                        sw.Write(JsonConvert.SerializeObject(orderLogToday.log[i]));
+                        sw.Write(JsonConvert.SerializeObject(orderLogToday.log[i], Formatting.Indented));
                     }
                     SaveLog(orderLogToday);
                     break;

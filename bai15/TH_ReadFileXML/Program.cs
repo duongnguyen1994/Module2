@@ -9,23 +9,38 @@ namespace TH_ReadFileXML
     {
         static void Main(string[] args)
         {
-            //AddressDetails details = new AddressDetails();
-            //details.HouseNo = 32;
-            //details.StreetName = "Trần Thúc Nhẫn";
-            //details.City = "Huế";
-            //XmlSerializer serializer = new XmlSerializer(typeof(AddressDetails));
-            //using(TextWriter tx = new StreamWriter(@"D:\codegym\Module2\bai15\test\input.xml"))
-            //{
-            //    serializer.Serialize(tx, details);
-            //}
+            string path = @"D:\codegym\Module2\bai15\TH_ReadFileXML";
+            string input = @"Input\input.xml";
+            string output = @"Output\output.xml";
+            AddressDetails details = new AddressDetails();
+            details.HouseNo = 32;
+            details.StreetName = "Trần Thúc Nhẫn";
+            details.City = "Huế";
+
+
+            XmlSerializer serializer = new XmlSerializer(typeof(AddressDetails));
+            using (StreamWriter tx = new StreamWriter($@"{path}\{input}"))
+            {
+                serializer.Serialize(tx, details);
+            }
+
+
             List<AddressDetails> list = new List<AddressDetails>();
             XmlSerializer deserializer = new XmlSerializer(typeof(AddressDetails));
-            using (TextReader reader = new StreamReader(@"D:\codegym\Module2\bai15\test\input.xml"))
+            AddressDetails addressDetails;
+
+
+            using (StreamReader reader = new StreamReader($@"{path}\{input}"))
             {
-                AddressDetails addressDetails =(AddressDetails)deserializer.Deserialize(reader);
+                addressDetails =(AddressDetails)deserializer.Deserialize(reader);
                 list.Add(addressDetails);
             }
-            Console.WriteLine(list[0].ToString());
+
+
+            using (StreamWriter tx = new StreamWriter($@"{path}\{output}"))
+            {
+                serializer.Serialize(tx, addressDetails);
+            }
         }
     }
 }

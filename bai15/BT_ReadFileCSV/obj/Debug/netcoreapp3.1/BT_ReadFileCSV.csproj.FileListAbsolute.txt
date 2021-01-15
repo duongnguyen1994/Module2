@@ -1,0 +1,13 @@
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.exe
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.deps.json
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.runtimeconfig.json
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.runtimeconfig.dev.json
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.dll
+D:\codegym\Module2\bai15\BT_ReadFileCSV\bin\Debug\netcoreapp3.1\BT_ReadFileCSV.pdb
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.csprojAssemblyReference.cache
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.AssemblyInfoInputs.cache
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.AssemblyInfo.cs
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.dll
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.pdb
+D:\codegym\Module2\bai15\BT_ReadFileCSV\obj\Debug\netcoreapp3.1\BT_ReadFileCSV.genruntimeconfig.cache

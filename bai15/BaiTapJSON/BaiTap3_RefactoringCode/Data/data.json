@@ -1,0 +1,46 @@
+{
+  "table": [
+    {
+      "tableID": 1,
+      "status": false
+    },
+    {
+      "tableID": 2,
+      "status": false
+    },
+    {
+      "tableID": 3,
+      "status": false
+    },
+    {
+      "tableID": 4,
+      "status": false
+    },
+    {
+      "tableID": 5,
+      "status": false
+    }
+  ],
+  "menu": [
+    {
+      "name": "Hong Tra Royal",
+      "price": 43000
+    },
+    {
+      "name": "Tra Xanh RoyalTea Cheese",
+      "price": 47000
+    },
+    {
+      "name": "Tra O Long Bon Mua",
+      "price": 49000
+    },
+    {
+      "name": "Tra Sakura Cheese",
+      "price": 43000
+    },
+    {
+      "name": "Tra Sua Cheese Cream",
+      "price": 43000
+    }
+  ]
+}

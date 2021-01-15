@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SVjC00RVT52WFQkZTONK23Fi7HLb9LMvfrsgbXfgeMUbBRI82NgA9kZwrRBMTv9dqj1Dzi1ykSK8eEekTPRSA==",
+  "success": true,
+  "projectFilePath": "D:\\codegym\\Module2\\bai15\\BaiTapCSV\\BaiTapCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\csvhelper\\19.0.0\\csvhelper.19.0.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Trung Duong\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
