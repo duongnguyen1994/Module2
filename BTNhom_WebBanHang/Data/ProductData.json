@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Phone",
+    "name": "Iphone 12",
+    "status": true,
+    "price": 1000000
+  },
+  {
+    "type": "Phone",
+    "name": "Iphone 11",
+    "status": true,
+    "price": 1000000
+  },
+  {
+    "type": "Phone",
+    "name": "Iphone 10",
+    "status": true,
+    "price": 1000000
+  },
+  {
+    "type": "Phone",
+    "name": "Iphone 8",
+    "status": true,
+    "price": 1000000
+  },
+  {
+    "type": "Phone",
+    "name": "Iphone 7",
+    "status": true,
+    "price": 1000000
+  }
+]

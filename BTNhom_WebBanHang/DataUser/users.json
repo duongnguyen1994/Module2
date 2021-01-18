@@ -1,7 +1,14 @@
 ﻿[
   {
+    "userID": "duong",
+    "passWord": "123",
+    "name": "abc",
+    "address": "abc"
+  },
+  {
     "userID": "duongnguyen",
-    "passWord": "123456",
-    "UserName": "duong"
+    "passWord": "123",
+    "name": "a",
+    "address": "a"
   }
 ]

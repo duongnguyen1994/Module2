@@ -8,6 +8,7 @@ namespace BTNhom_WebBanHang.Model
     {
         public string userID { get; set; }
         public string passWord { get; set; }
-        public string UserName { get; set; }
+        public string name { get; set; }
+        public string address { get; set; }
     }
 }

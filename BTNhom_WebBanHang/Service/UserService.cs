@@ -10,6 +10,7 @@ namespace BTNhom_WebBanHang.Service
     class UserService : BaseService
     {
         private List<User> userData;
+        private User account;
         private string userPath;
 
         public UserService()
@@ -25,38 +26,40 @@ namespace BTNhom_WebBanHang.Service
             }
         }
 
-        public bool SignIn(string Id, string pass, string name)
+        public User SignUp(string userID, string passWord, string name, string address)
         {
-            User newAcc = new User();
+            account = new User();
             for (int i = 0; i < userData.Count; i++)
             {
-                if(Id == userData[i].userID)
+                if(userID == userData[i].userID)
                 {
                     Console.WriteLine("Invalid ID or PassWord");
-                    return false;
+                    return null;
                 }               
             }
-            newAcc.userID = Id;
-            newAcc.passWord = pass;
-            newAcc.UserName = name;
-            userData.Add(newAcc);
+            account.userID = userID;
+            account.passWord = passWord;
+            account.name = name;
+            account.address = address;
+            userData.Add(account);
             Help.WriteFile<List<User>>(userPath, userData);
             Console.WriteLine($"Welcome {name}");
-            return true;
+            return account;
         }
 
-        public bool LogIn(string Id, string pass)
+        public User LogIn(string Id, string pass)
         {
             foreach(User user in userData)
             {
                 if(user.userID == Id && user.passWord == pass)
                 {
-                    Console.WriteLine($"Welcome {user.UserName}");
-                    return true;
+                    Console.WriteLine($"Welcome {user.name}");
+                    return user;
                 }
             }
             Console.WriteLine("Invalid ID or PassWord");
-            return false;
+            return null;
         }
+
     }
 }

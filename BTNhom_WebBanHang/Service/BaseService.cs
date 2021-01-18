@@ -8,7 +8,7 @@ namespace BTNhom_WebBanHang.Service
     {
         protected string root = @"D:\codegym\Module2\BTNhom_WebBanHang"; 
         protected string data = @"Data\ProductData.json";              
-        protected string dataLog = $@"DataLog\Log_{DateTime.Now.ToString("ddMMyyyy")}";         
+        protected string dataLog = $@"DataLog\Log_{DateTime.Now.ToString("ddMMyyyy")}.json";         
         protected string dataUser = @"DataUser\users.json";
     }
 }

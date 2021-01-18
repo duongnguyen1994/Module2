@@ -21,7 +21,7 @@ namespace BTNhom_WebBanHang.Helper
         {
             using(StreamWriter sw = new StreamWriter(fullPath, append:false, Encoding.UTF8))
             {
-                sw.Write(JsonConvert.SerializeObject(data));
+                sw.Write(JsonConvert.SerializeObject(data,Formatting.Indented));
             }
         }
     }
