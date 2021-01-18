@@ -1,4 +1,5 @@
-﻿using BTNhom_WebBanHang.Model;
+﻿using BTNhom_WebBanHang.Helper;
+using BTNhom_WebBanHang.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,6 +12,7 @@ namespace BTNhom_WebBanHang.Service
         private UserService userService;
         private OrderDetailService OrderDetailService;
         private List<OrderDetail> orderDetails;
+        private List<Product> allProdcut;
         private User account;
 
         public MainService()
@@ -94,16 +96,66 @@ namespace BTNhom_WebBanHang.Service
             orderService.ShowAllCart(account.userID);
         }
 
-        public void Menu()
+        public void ShowProduct()
         {
-
+            string path = @"D:\codegym\Module2\BTNhom_WebBanHang\Data\ProductData.json";
+            allProdcut = Help.ReadFile<List<Product>>(path);
+            for (int i = 0;i<allProdcut.Count;i++)
+            {
+                Console.WriteLine($"{i+1}. {allProdcut[i].ToString()}");
+            }
         }
 
-        public void Main()
+        public void Menu()
         {
-            EnterService();
-            Menu();
-            Console.WriteLine("1. Search product");
+            ShowProduct();
+            for(int i = 0;i <20;i++)
+            {
+                Console.Write("=");
+            }
+            Console.WriteLine("\n1. Add product to cart");
+            Console.WriteLine("2. Add more product to cart");          
+            Console.WriteLine("3. Show all product in cart");
+            Console.WriteLine("4. Pay");
+            Console.WriteLine("5. Log out");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("=");
+            }
+        }
+
+        public void MenuService()
+        {
+            int choice;
+            bool check;
+            while(true)
+            {
+                Menu();
+                do
+                {
+                    Console.WriteLine("\nEnter choice");
+                    check = int.TryParse(Console.ReadLine(), out choice);
+                } while (!check);
+                switch (choice)
+                {
+                    case 1:
+                        ChooseProduct();
+                        AddProductToCart();
+                        break;
+                    case 2:
+                        ChooseProduct();
+                        UpdateProduct();
+                        break;
+                    case 3:
+                        ShowUserCart();
+                        break;
+                    case 4:
+                        break;
+                    case 5:
+                        LogOut();
+                        break;
+                }
+            }           
         }
     }
 }

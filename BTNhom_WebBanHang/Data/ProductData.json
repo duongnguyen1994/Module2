@@ -1,32 +1,32 @@
 [
   {
     "type": "Phone",
-    "name": "Iphone 12",
+    "name": "Iphone12",
     "status": true,
-    "price": 1000000
+    "price": 12000000
   },
   {
     "type": "Phone",
-    "name": "Iphone 11",
+    "name": "Samsung Galaxy S10",
     "status": true,
-    "price": 1000000
+    "price": 8000000
   },
   {
     "type": "Phone",
-    "name": "Iphone 10",
+    "name": "Xiaomi Redmi Note",
     "status": true,
-    "price": 1000000
+    "price": 8000000
   },
   {
-    "type": "Phone",
-    "name": "Iphone 8",
+    "type": "Computer",
+    "name": "Asus ViVo5",
     "status": true,
-    "price": 1000000
+    "price": 15000000
   },
   {
-    "type": "Phone",
-    "name": "Iphone 7",
+    "type": "Computer",
+    "name": "Dell Inspiron",
     "status": true,
-    "price": 1000000
+    "price": 13000000
   }
 ]
