@@ -9,13 +9,11 @@ namespace BTNhom_WebBanHang.Service
 {
     class OrderService : BaseService
     {
-        private List<Order> ordersList;
-        //private List<Product> dataProduct;
+        private List<Order>? ordersList;
         private string fullPath;
 
         public OrderService()
         {
-            //dataProduct = Help.ReadFile<List<Product>>($@"{root}\{data}")
             fullPath = Path.Combine(root, dataLog);
             if (File.Exists(fullPath))
             {
@@ -29,73 +27,86 @@ namespace BTNhom_WebBanHang.Service
 
         public void AddToCart(List<OrderDetail> orderDetailsList, string userId)
         {
-            if (ordersList.Count !=0)
+            Order newOrder = GetOrderByUserID(userId);
+            if (newOrder.userId == null)
             {
-                UpdateCart(orderDetailsList, userId);
-            }
-            else
-            {
-                Order newOrder = new Order()
+                newOrder = new Order()
                 {
                     userId = userId,
                     isPaid = false,
                     ordersDetailList = orderDetailsList
                 };
-                ordersList.Add(newOrder);
-                Help.WriteFile(fullPath, ordersList);
+                foreach (OrderDetail od in newOrder.ordersDetailList)
+                {
+                    if (od.quantity == 0)
+                    {
+                        newOrder.ordersDetailList.Remove(od);
+                        if (newOrder.ordersDetailList != null)
+                        {
+                            ordersList.Add(newOrder);
+                            Help.WriteFile<List<Order>>(fullPath, ordersList);
+                        }
+                    }
+                    else
+                    {
+                        ordersList.Add(newOrder);
+                        Help.WriteFile<List<Order>>(fullPath, ordersList);
+                    }
+                }               
             }
+            else if (newOrder.userId != null)
+            {
+                UpdateCart(orderDetailsList, userId);
+            }           
         }
-
         public void UpdateCart(List<OrderDetail> orderDetailsList, string userId)
         {
             bool isExist;
             Order orderUpdate = GetOrderByUserID(userId);
-            try
+            if (orderDetailsList.Count != 0)
             {
-                foreach (OrderDetail newOd in orderDetailsList)
+                try
                 {
-                    isExist = false;
-                    foreach (OrderDetail OldOd in orderUpdate.ordersDetailList)
+                    foreach (OrderDetail newOd in orderDetailsList)
                     {
-                        if (newOd.productName == OldOd.productName)
+                        isExist = false;
+                        foreach (OrderDetail OldOd in orderUpdate.ordersDetailList)
                         {
-                            isExist = true;
-                            OldOd.quantity += newOd.quantity;
+                            if (newOd.productName == OldOd.productName)
+                            {
+                                isExist = true;
+                                OldOd.quantity += newOd.quantity;
+                                if (OldOd.quantity == 0)
+                                {
+                                    orderUpdate.ordersDetailList.Remove(OldOd);
+                                    break;
+                                }                               
+                            }
+                        }
+                        if (!isExist)
+                        {
+                            orderUpdate.ordersDetailList.Add(newOd);
                         }
                     }
-                    if (!isExist)
+                    if (orderUpdate.ordersDetailList.Count == 0)
                     {
-                        orderUpdate.ordersDetailList.Add(newOd);
+                        ordersList.Remove(orderUpdate);
                     }
+                    Help.WriteFile<List<Order>>(fullPath, ordersList);
                 }
-                Help.WriteFile<List<Order>>(fullPath, ordersList);
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex);
+                }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex);
-            }
+
         }
 
-        //public bool CheckStock(List<OrderDetail> orderDetailsList)
-        //{
-        //    foreach(OrderDetail items in orderDetailsList)
-        //    {
-        //         foreach(Data datas in dataProduct)
-        //          {
-        //             if(items.productName == dataProduct.name && !dataProduct.status)
-        //              {
-        //                  return false;
-        //              }
-        //          }
-        //    }
-        //    return true;
-        //}
-
         public Order GetOrderByUserID(string userID)
-        {
+        {          
             foreach (Order items in ordersList)
             {
-                if (items.userId == userID && items.isPaid == false)
+                if (items.userId == userID && !items.isPaid)
                 {
                     return items;
                 }
@@ -105,15 +116,23 @@ namespace BTNhom_WebBanHang.Service
 
         public void ShowAllCart(string userID)
         {
+            ordersList = Help.ReadFile<List<Order>>(fullPath);
             Order order = GetOrderByUserID(userID);
-            foreach (OrderDetail items in order.ordersDetailList)
+            if (order.userId != null)
             {
-                Console.WriteLine($"Product: {items.productName}\nPrice: {items.price}\nQuantity: {items.quantity}\nAmount: {items.Amount}");
-                for (int i = 0; i < 20; i++)
+                foreach (OrderDetail items in order.ordersDetailList)
                 {
-                    Console.Write("=");
+                    Console.WriteLine($"Product: {items.productName}\nPrice: {items.price}\nQuantity: {items.quantity}\nAmount: {items.Amount}");
+                    for (int i = 0; i < 20; i++)
+                    {
+                        Console.Write("=");
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine();
+            }
+            else
+            {
+                Console.WriteLine("Your cart is empty");
             }
         }
     }

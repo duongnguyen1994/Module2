@@ -4,5 +4,11 @@
     "passWord": "123",
     "name": "duong",
     "address": "anc"
+  },
+  {
+    "userID": "huyngu",
+    "passWord": "123",
+    "name": "huy",
+    "address": "abc"
   }
 ]

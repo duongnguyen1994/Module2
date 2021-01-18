@@ -11,10 +11,11 @@ namespace BTNhom_WebBanHang
     {
         
         static void Main(string[] args)
-        {           
+        {
             MainService main = new MainService();
             main.EnterService();
             main.MenuService();
+
         }
     }
 }

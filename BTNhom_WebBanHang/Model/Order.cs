@@ -11,7 +11,7 @@ namespace BTNhom_WebBanHang.Model
         public List<OrderDetail> ordersDetailList { get; set; }
         public decimal total => GetTotal();
 
-        private decimal GetTotal()
+        protected decimal GetTotal()
         {
             decimal sum = 0;
             foreach(OrderDetail item in ordersDetailList)

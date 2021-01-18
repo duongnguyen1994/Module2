@@ -8,6 +8,7 @@ namespace BTNhom_WebBanHang.Service
 {
     class MainService
     {
+        private PaymentService paymentService;
         private OrderService orderService;
         private UserService userService;
         private OrderDetailService OrderDetailService;
@@ -17,6 +18,7 @@ namespace BTNhom_WebBanHang.Service
 
         public MainService()
         {
+            paymentService = new PaymentService();
             OrderDetailService = new OrderDetailService();
             orderDetails = new List<OrderDetail>();
             orderService = new OrderService();
@@ -61,6 +63,7 @@ namespace BTNhom_WebBanHang.Service
             {
                 EnterService();
             }
+            Console.ReadKey();
         }
 
         public void ChooseProduct()
@@ -106,6 +109,11 @@ namespace BTNhom_WebBanHang.Service
             }
         }
 
+        public void PayCart()
+        {
+            paymentService.Pay(account.userID);
+        }
+
         public void Menu()
         {
             ShowProduct();
@@ -130,6 +138,7 @@ namespace BTNhom_WebBanHang.Service
             bool check;
             while(true)
             {
+                Console.Clear();
                 Menu();
                 do
                 {
@@ -150,11 +159,13 @@ namespace BTNhom_WebBanHang.Service
                         ShowUserCart();
                         break;
                     case 4:
+                        PayCart();
                         break;
                     case 5:
                         LogOut();
                         break;
                 }
+                Console.ReadKey();
             }           
         }
     }
